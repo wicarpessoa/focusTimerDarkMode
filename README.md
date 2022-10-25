@@ -1,6 +1,6 @@
 # Focus Timer Darkmode
 
-a timer to control your time on something that need focus. Sounds to improve your concentration and theme dark and light to you choose.
+a timer to control your time on something that you need to focus. Sounds to improve your concentration and theme dark and light to you choose.
 
 
 ## Deploy
